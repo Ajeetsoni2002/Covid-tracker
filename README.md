@@ -22,9 +22,7 @@
  </h2>
  <h3 align="center"><a href="http://corona-cases-india.netlify.com/">COVID-19 Tracker</a> ღ <a href="https://indiafightscorona.netlify.app/">Dashboard</a></h3>
  <p align="center">
-    <a href="https://github.com/vinitshahdeo/COVID19/stargazers">
-    <img src="https://img.shields.io/github/stars/vinitshahdeo/COVID19?label=LEAVE%20A%20Star%20on%20GitHub&logo=github&style=for-the-badge" />
-    </a>
+    
  </p>
  <p align="center">
     <a href="https://indiafightscorona.netlify.app/">
@@ -121,36 +119,12 @@ npm install && npm start
 
 - [India Fights Corona -  Get current COVID-19 stats](https://indiafightscorona.netlify.app/)!
 
-- [COVID-19 Tracker - Homepage](https://vinitshahdeo.github.io/COVID19/)
 
-- An [Open Letter](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/236) to all the contributors -  [STAY HOME, STAY SAFE!](https://github.com/vinitshahdeo/COVID19)
-
-## License
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvinitshahdeo%2Fcovid19api.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvinitshahdeo%2Fcovid19api?ref=badge_large)
-
-## `< />` with ♡ by 
-
-[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/0)](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/1)](https://indiafightscorona.netlify.app/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/2)](https://github.com/vinitshahdeo/COVID19)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/3)](https://www.linkedin.com/in/vinitshahdeo/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/4)](http://corona-cases-india.netlify.com/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/5)](http://corona-cases-india.netlify.com/)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/6)](https://github.com/vinitshahdeo)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/COVID19/images/7)](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk&title=story_of_vinit_shahdeo)
-
-#### [Vinit Shahdeo](https://www.eatmy.news/2020/06/code-like-you-eat-i-mean-code-daily-as.html)
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo)
 
 ## Leave a :star:
 
 
-Check out **@vinitshahdeo/[COVID19](https://github.com/vinitshahdeo/COVID19)** repository. **Consider leaving a star!** :heart: :hugs:
+Check out **@vinitshahdeo/[COVID19](https://github.com/Ajeetsoni2002/Covid-tracker)** repository. **Consider leaving a star!** :heart: :hugs:
 
 
-----
-```javascript
 
-if (_.isAwesome(thisRepo)) {
-  thisRepo.star(); // thanks in advance :p
-}
-
-```
-----
-
-[![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/vinitshahdeo/)  [![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
